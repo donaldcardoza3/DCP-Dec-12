@@ -82,8 +82,9 @@ chown -R devopsadmin /home/devopsadmin/.ssh
 chmod 600 /home/devopsadmin/.ssh/authorized_keys
 chmod 700 /home/devopsadmin/.ssh
 
-#make devopsadmin user as a owner to tomcat dir :
+#make devopsadmin user as a owner to tomcat dir to get access to webapp in tomcat dir folder where the artifacts are to deployed :
 
+Note: so give exit from current devops user and run the below command as root user
 chown -R devopsadmin /opt/tomcat
 
 /home/devopsadmin
