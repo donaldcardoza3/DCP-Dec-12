@@ -87,7 +87,9 @@ chmod 700 /home/devopsadmin/.ssh
 Note: so give exit from current devops user and run the below command as root user
 chown -R devopsadmin /opt/tomcat
 
-/home/devopsadmin
+/home/devopsadmin  for build server
+
+/opt/tomcat/webapps default path for qa server where the artifacts are deployed and devops is the owner so he can deploy and make the changes
 
 ****************************************************************************************************
 
