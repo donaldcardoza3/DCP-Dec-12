@@ -1,0 +1,18 @@
+C:\Program Files\Git
+https://github.com/LoksaiETA/DCP-Dec-12
+https://mobaxterm.mobatek.net/download.html
+http://www.mywifiext.com/cgi-bin/wait_for_ca_connect.html
+https://www.jenkins.io/doc/book/installing/
+
+
+jenkins
+http://13.127.143.114:8080/job/DEMO1/3/console
+
+cd /var/lib/jenkins/  default jenkins path
+
+https://learning.edureka.co/join-class/23989#:~:text=Chat-,Manikandan%20Vasudevan,yes,-pavithra%20.
+
+https://docs.docker.com/get-docker/
+
+
+

@@ -1,0 +1,150 @@
+Chat
+Sumedh Prakash Tayade
+To
+Everyone
+5:59:58 PM
+SP
+Good evening sir
+How are you?
+yes
+Sandeep reddy bodapatla
+To
+Everyone
+6:00:41 PM
+SR
+hello sir
+Benesia Akuh EPSE Njung
+To
+Everyone
+6:00:41 PM
+BA
+sure 
+Me
+To
+Everyone
+6:00:51 PM
+DC
+how are doing sir
+Sandeep reddy bodapatla
+To
+Everyone
+6:01:35 PM
+SR
+sir actually i am not tht good at ansible will this class will be fyn wd out a good knowledge of ansible 
+pavithra .
+To
+Everyone
+6:02:38 PM
+P.
+yes good to proceed
+Shruthi Basavanpura Ramesh
+To
+Everyone
+6:02:43 PM
+SB
+Yes
+Sandeep reddy bodapatla
+To
+Everyone
+6:03:15 PM
+SR
+actually i haven't practice sir ! i will do ths weekend 
+sure sir ! thank you 
+Benesia Akuh EPSE Njung
+T
+
+pavithra .
+To
+Everyone
+P.
+to share workload
+Pratap Eadara
+To
+Everyone
+PE
+sharing work load
+Sumedh Prakash Tayade
+To
+Everyone
+SP
+execute tasks
+Emeka Ehirim
+To
+Everyone
+EE
+load balancing
+Pawar Pradip Dilip
+To
+Everyone
+PP
+no
+Pratap Eadara
+To
+Everyone
+PE
+no
+Mohammed irfan ali
+To
+Everyone
+MI
+no
+pavithra .
+To
+Everyone
+P.
+what is container engine?
+Emeka Ehirim
+To
+Everyone
+EE
+yes
+Pratap Eadara
+To
+Everyone
+PE
+yes
+Sumedh Prakash Tayade
+To
+Everyone
+SP
+Image means read only stack?
+There is no hypervisor in containers
+pavithra .
+To
+Everyone
+P.
+yes
+Benesia Akuh EPSE Njung
+To
+Everyone
+BA
+yes
+Sumedh Prakash Tayade
+To
+Everyone
+SP
+a single thread of execution
+Lavanya Kollipara
+To
+Everyone
+LK
+hyoervisor
+Sandeep reddy bodapatla
+To
+Everyone
+SR
+is a container 
+Sumedh Prakash Tayade
+To
+Everyone
+SP
+What is image?
+pavithra .
+To
+Everyone
+P.
+what is docker image?
+
+Who can see your messages? Recording On
+To:
+(Direct Message)

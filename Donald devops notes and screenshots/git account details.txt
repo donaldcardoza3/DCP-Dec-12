@@ -1,0 +1,6 @@
+C:\Program Files\Git
+https://github.com/LoksaiETA/DCP-Dec-12
+https://mobaxterm.mobatek.net/download.html
+http://www.mywifiext.com/cgi-bin/wait_for_ca_connect.html
+https://www.jenkins.io/doc/book/installing/
+
