@@ -86,6 +86,8 @@ chmod 700 /home/devopsadmin/.ssh
 
 Note: so give exit from current devops user and run the below command as root user
 chown -R devopsadmin /opt/tomcat
+or
+chown -R devopsadmin:devopsadmin /opt/tomcat
 
 /home/devopsadmin  for build server
 
