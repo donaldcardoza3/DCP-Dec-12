@@ -99,7 +99,7 @@ docker run -it -p 8088:8080 tomcat:8.0
 
 Once you install tomcat on ur vm :
 
-<public_ip>:8080
+<public_ip>:8088
 
 
 ###Docker Logs
